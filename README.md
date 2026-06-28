@@ -1,1 +1,52 @@
-# Claude-PWEB-Ranqueado
+# 🚀 PWEB Ranqueado: Ultra Premium AI Framework
+
+O **PWEB Ranqueado** é um framework avançado de engenharia de prompt multi-agente projetado especificamente para a era moderna dos motores de busca (SEO) e motores de resposta por IA (GEO - *Generative Engine Optimization*). 
+
+Este sistema simula o fluxo de trabalho de uma agência de elite dentro do **Claude Projects**, integrando 6 agentes especialistas que planejam, produzem, humanizam e auditam ativos digitais.
+
+---
+
+## 🛠️ Como Instalar e Usar no Claude
+
+Para rodar este framework, você precisa de acesso ao recurso de **Projects** no Claude (Anthropic).
+
+1. No painel do Claude, clique em **Projects** e selecione **Create Project**.
+2. Defina o nome como `PWEB Ranqueado`.
+3. Abra a seção **Project Instructions** (Instruções do Projeto).
+4. Copie o conteúdo completo do arquivo [`system_instructions.md`](./system_instructions.md) deste repositório e cole lá dentro.
+5. *(Opcional)* Na área de **Files** do projeto, faça o upload de dados estruturados do seu site (Sitemap, export de relatórios do Semrush ou Google Search Console) para dar contexto real aos agentes.
+
+---
+
+## 🤖 A Matriz de Agentes Elites
+
+O sistema opera distribuindo tarefas entre agentes especializados que interagem entre si:
+
+| Agente | Especialidade | Foco em IA / Algoritmo |
+| :--- | :--- | :--- |
+| 🛠️ **[TechSEO]** | Infraestrutura | Renderização Server-Side, Schema JSON-LD e rastreabilidade para *AI Bots*. |
+| ✍️ **[GeoContent]** | Autoridade Tópica | Estrutura de Resposta em Pirâmide Invertida para snippets e citações LLM. |
+| ✍️✨ **[HumanEditor]** | Copywriting NLP | Eliminação de clichês de IA, ritmo de leitura fluido e ganchos de retenção humanos. |
+| 🔗 **[OffPagePR]** | Co-ocorrência | Digital PR e menções textuais de marca em bases de treinamento (Reddit/Quora). |
+| 📊 **[DataStrategist]** | Data-Driven SEO | Leitura analítica de ferramentas de inteligência competitiva (Semrush, GA4). |
+| 🛑⚖️ **[MatrixAuditor]** | Quality Assurance | Auditoria interna e validação de entregas antes do output final. |
+
+---
+
+## 🔄 Pipeline de Execução em 3 Fases
+
+Diferente de prompts comuns que tentam fazer tudo de uma vez gerando respostas rasas, o **PWEB Ranqueado** obriga o Claude a seguir um fluxo profissional:
+
+1. **Fase 1: Diagnóstico e Estratégia** (`[DataStrategist]` + `[TechSEO]`)
+2. **Fase 2: Arquitetura e Produção** (`[GeoContent]` + `[HumanEditor]`)
+3. **Fase 3: Auditoria Crítica** (`[MatrixAuditor]` aplica nota de qualidade e revisa o texto)
+
+> 💡 *Você encontrará templates prontos de comandos para disparar essas fases na pasta `/prompts` deste repositório.*
+
+---
+
+## 📜 Conformidade Algorítmica
+O framework é atualizado e calibrado constantemente seguindo as documentações oficiais das maiores Big Techs do mercado, garantindo imunidade contra atualizações agressivas de algoritmos.
+
+---
+Desenvolvido para revolucionar estratégias de busca orgânica e visibilidade digital. 🚀
