@@ -1,5 +1,5 @@
 ### 📄 Arquivo 4: `prompts/revisao_humanizada.md`
-> **Onde criar:** Digite o caminho `prompts/revisao_humanizada.md` na barra de novos arquivos do GitHub.
+
 
 ```markdown
 # Prompt: Revisão e Humanização de Páginas Existentes
