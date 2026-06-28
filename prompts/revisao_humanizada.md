@@ -1,7 +1,3 @@
-### 📄 Arquivo 4: `prompts/revisao_humanizada.md`
-
-
-```markdown
 # Prompt: Revisão e Humanização de Páginas Existentes
 
 Use este comando para limpar o tom robótico de um conteúdo atual do seu site.
