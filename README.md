@@ -78,6 +78,7 @@ Se esta ferramenta ajudou você, é possível apoiar voluntariamente a manutenç
 ```txt
 Pix: doacoes@produtoraweb.com
 Cripto: 0xEd46dADa43cb7b4e4D753D631B4E99002530D780
+```
 
 ---
 
