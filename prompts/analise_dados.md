@@ -1,7 +1,3 @@
-### 📄 Arquivo 5: `prompts/analise_dados.md`
-> **Onde criar:** Digite o caminho `prompts/analise_dados.md` na barra de novos arquivos do GitHub.
-
-```markdown
 # Prompt: Análise de Dados de Ferramentas (Semrush/GSC/GA4)
 
 Use este comando anexando relatórios em planilhas para diagnóstico de inteligência competitiva.
