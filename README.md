@@ -1,8 +1,8 @@
 # 🚀 PWEB Ranqueado: Ultra Premium AI Framework
 
-O **PWEB Ranqueado** é um framework avançado de engenharia de prompt multi-agente projetado especificamente para a era moderna dos motores de busca (SEO) e motores de resposta por IA (GEO - *Generative Engine Optimization*). 
+O **PWEB Ranqueado** é um framework avançado de engenharia de prompt multi-agente projetado especificamente para a era moderna dos motores de busca (SEO), motores de resposta por IA (GEO - *Generative Engine Optimization*) e Otimização de Conversão e Usabilidade (UX/CRO).
 
-Este sistema simula o fluxo de trabalho de uma agência de elite dentro do **Claude Projects**, integrando 6 agentes especialistas que planejam, produzem, humanizam e auditam ativos digitais.
+Este sistema simula o fluxo de trabalho de uma agência de elite dentro do **Claude Projects**, integrando **7 agentes especialistas** que planejam, produzem, humanizam, desenham a experiência e auditam ativos digitais.
 
 ---
 
@@ -22,66 +22,72 @@ Para rodar este framework, você precisa de acesso ao recurso de **Projects** no
 
 O sistema opera distribuindo tarefas entre agentes especializados que interagem entre si:
 
-| Agente | Especialidade | Foco em IA / Algoritmo |
+| Agente | Especialidade | Foco em IA / Algoritmo / Usuário |
 | :--- | :--- | :--- |
 | 🛠️ **[TechSEO]** | Infraestrutura | Renderização Server-Side, Schema JSON-LD e rastreabilidade para *AI Bots*. |
+| 📐🎨 **[UXArchitect]** | Usabilidade & CRO | Layout, escaneabilidade, Core Web Vitals (INP) e retenção (Dwell Time). |
 | ✍️ **[GeoContent]** | Autoridade Tópica | Estrutura de Resposta em Pirâmide Invertida para snippets e citações LLM. |
 | ✍️✨ **[HumanEditor]** | Copywriting NLP | Eliminação de clichês de IA, ritmo de leitura fluido e ganchos de retenção humanos. |
 | 🔗 **[OffPagePR]** | Co-ocorrência | Digital PR e menções textuais de marca em bases de treinamento (Reddit/Quora). |
 | 📊 **[DataStrategist]** | Data-Driven SEO | Leitura analítica de ferramentas de inteligência competitiva (Semrush, GA4). |
-| 🛑⚖️ **[MatrixAuditor]** | Quality Assurance | Auditoria interna e validação de entregas antes do output final. |
+| 🛑⚖️ **[MatrixAuditor]** | Quality Assurance | Auditoria interna e validação crítica de entregas (texto, SEO e UX) antes do output final. |
 
 ---
 
 ## 🔄 Pipeline de Execução em 3 Fases
 
-Diferente de prompts comuns que tentam fazer tudo de uma vez gerando respostas rasas, o **PWEB Ranqueado** obriga o Claude a seguir um fluxo profissional:
+Diferente de prompts comuns que tentam fazer tudo de uma vez gerando respostas rasas, o **PWEB Ranqueado** obriga o Claude a seguir um fluxo profissional e faseado:
 
-1. **Fase 1: Diagnóstico e Estratégia** (`[DataStrategist]` + `[TechSEO]`)
-2. **Fase 2: Arquitetura e Produção** (`[GeoContent]` + `[HumanEditor]`)
-3. **Fase 3: Auditoria Crítica** (`[MatrixAuditor]` aplica nota de qualidade e revisa o texto)
+1. **Fase 1: Diagnóstico, Infraestrutura e UX Estrutural** (`[DataStrategist]` + `[TechSEO]` + `[UXArchitect]`)
+2. **Fase 2: Arquitetura, Produção e Copywriting** (`[GeoContent]` + `[HumanEditor]`)
+3. **Fase 3: Auditoria Crítica** (`[MatrixAuditor]` aplica nota de qualidade, caça clichês de IA e revisa a usabilidade)
 
 > 💡 *Você encontrará templates prontos de comandos para disparar essas fases na pasta `/prompts` deste repositório.*
 
 ---
 
-## 📜 Conformidade Algorítmica
-O framework é atualizado e calibrado constantemente seguindo as documentações oficiais das maiores Big Techs do mercado, garantindo imunidade contra atualizações agressivas de algoritmos.
+## 🧠 Otimização do Fluxo (Base de Conhecimento Própria)
+
+Para evitar que os agentes confundam escopos ou sofram com alucinações de contexto em chats longos, recomendamos criar um arquivo chamado `knowledge_anchor.md` (conforme as diretrizes do repositório) e subi-lo na aba **Files** do seu Claude Project. Isso ancora as atribuições de dados brutos e impede sobreposição entre as análises do `[DataStrategist]`, `[TechSEO]` e `[UXArchitect]`.
 
 ---
 
-## Contribuição
+## 📜 Conformidade Algorítmica
+O framework é atualizado e calibrado constantemente seguindo as documentações oficiais das maiores Big Techs do mercado, garantindo imunidade contra atualizações agressivas de algoritmos (como Google Page Experience e AI Overviews).
+
+---
+
+## 🟩 Contribuição
 
 Este projeto pode receber melhorias, sugestões e ajustes da comunidade.
 
 Sugestões bem-vindas:
 
-* novos modelos de prompts;
-* novos checklists;
-* novos contextos inteligentes;
-* melhorias de documentação;
-* correções de bugs.
+* Novos modelos de prompts;
+* Novos checklists de UX/SEO;
+* Novos contextos inteligentes;
+* Melhorias de documentação;
+* Correções de bugs.
 
 ---
 
-## Apoio ao projeto
+## 🤝 Apoio ao projeto
 
 Se esta ferramenta ajudou você, é possível apoiar voluntariamente a manutenção e evolução do projeto.
 
 ```txt
 Pix: doacoes@produtoraweb.com
 Cripto: 0xEd46dADa43cb7b4e4D753D631B4E99002530D780
-```
 
 ---
 
-## Aviso legal
+## 🛡️ Aviso legal
 
 Use com responsabilidade, revise os prompts antes de enviar e valide alterações importantes antes de publicar qualquer projeto.
 
 ---
 
-## Licença
+## 📄 Licença
 
 Este projeto é distribuído sob a licença **GNU General Public License v3.0 (GPL-3.0)**.
 
@@ -90,4 +96,4 @@ Você pode usar, estudar, modificar e redistribuir este projeto, desde que qualq
 Consulte o arquivo `LICENSE` para mais detalhes.
 
 ---
-Desenvolvido para revolucionar estratégias de busca orgânica e visibilidade digital. 🚀
+Desenvolvido por ProdutoraWeb.com para revolucionar estratégias de busca orgânica e visibilidade digital. 🚀
